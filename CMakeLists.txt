@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.27.4 FATAL_ERROR)
+cmake_minimum_required(VERSION 3.28.3 FATAL_ERROR)
 
 set(PROJECT_NAME physics-engine1)
 project(${PROJECT_NAME})
